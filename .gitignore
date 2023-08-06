@@ -1,0 +1,12 @@
+.idea
+data
+build
+/build/
+/data/
+/dist/
+/__pycache__/
+/Cookies
+/output/
+
+*.exe
+*.json
